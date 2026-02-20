@@ -212,7 +212,7 @@ def load_model(
     processor = Qwen3VLProcessor.from_pretrained(
         model_id,
         min_pixels=256 * 28 * 28,
-        max_pixels=128 * 32 * 32,
+        max_pixels=768 * 32 * 32,
     )
     print("[load_model] Processor loaded. Ready.", flush=True)
 
