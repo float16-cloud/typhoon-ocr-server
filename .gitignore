@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Build artifacts
+kernel/*.dylib
+*.dylib
+
+# OS
+.DS_Store
