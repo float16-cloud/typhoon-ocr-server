@@ -1,4 +1,4 @@
-# float16-light-ocr
+# typhoon-ocr-server
 
 Lightweight CPU-optimized OCR using [scb10x/typhoon-ocr1.5-2b](https://huggingface.co/scb10x/typhoon-ocr1.5-2b) (Qwen3-VL 2B). Extracts text from document images as Markdown.
 
